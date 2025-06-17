@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///Users/malik/Documents/niomic/nextjs/tugas1/app/loading.tsx"],"sourcesContent":["export default function Loading() {\n    return (\n        <h1>Loading...</h1>\n    )\n}"],"names":[],"mappings":";;;;;AAAe,SAAS;IACpB,qBACI,8OAAC;kBAAG;;;;;;AAEZ","debugId":null}}]
+}
